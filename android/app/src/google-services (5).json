@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "455268554992",
+    "project_id": "food-delivery-36ed4",
+    "storage_bucket": "food-delivery-36ed4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455268554992:android:2b4b0fed8eedaed5a8ca35",
+        "android_client_info": {
+          "package_name": "com.example.admin_fooddelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455268554992-40eerggfpuqdkho9jfu59mobt6qqgu0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArff6r96lPGvqXz5QmjRM-XYEKrFEC3Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455268554992-40eerggfpuqdkho9jfu59mobt6qqgu0m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "455268554992-40k2bcu7g83qgeppoq6lko82epad848f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fooddelivery"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455268554992:android:939ab5e8063d0228a8ca35",
+        "android_client_info": {
+          "package_name": "com.example.fooddelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455268554992-40eerggfpuqdkho9jfu59mobt6qqgu0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArff6r96lPGvqXz5QmjRM-XYEKrFEC3Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455268554992-40eerggfpuqdkho9jfu59mobt6qqgu0m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "455268554992-40k2bcu7g83qgeppoq6lko82epad848f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fooddelivery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
